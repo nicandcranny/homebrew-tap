@@ -3,7 +3,7 @@
 Install [ColdBru](https://github.com/nicandcranny/coldbru):
 
 ```sh
-brew install --cask nicandcranny/nicandcranny/coldbru
+brew install --cask nicandcranny/tap/coldbru
 ```
 
 Upgrade later releases:
@@ -12,4 +12,3 @@ Upgrade later releases:
 brew update
 brew upgrade --cask coldbru
 ```
-# homebrew-nicandcranny
